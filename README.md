@@ -110,11 +110,6 @@ If you find a bug or have an enhancement idea, open an issue first to discuss it
 
 ---
 
-## 📄 License
-This project is licensed under the **MIT License**.
-
----
-
 ## 📬 Contact
 **Author:** Abdulsalam Al-Shuaibi  
 **LinkedIn:** [linkedin.com/in/abdulsalamalshuaibi](https://linkedin.com/in/abdulsalamalshuaibi)  
